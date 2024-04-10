@@ -7,3 +7,6 @@ If the title is complete it will have a COMPLETE.txt file in the same directory 
 # NES Games
 
 Each NES Game should have a .sav file for use with emulators. It additionally may have a .dat file from a 3DS or other system. To convert between the two use the converter here: https://www.shunyweb.info/convert.php
+
+# GBA Games
+Saves backed up from 3DS work with MGBA, don't seem to work with Mesen
